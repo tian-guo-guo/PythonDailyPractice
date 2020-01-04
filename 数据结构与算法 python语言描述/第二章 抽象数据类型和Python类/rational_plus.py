@@ -30,4 +30,5 @@ def rational_plus(r1, r2):
     num = r1[0]*r2[1] + r2[0]*r1[1]
     den = r1[1]*r2[1]
     return num, den  
-r3 = rational_plus(r1, r2)
+n, d = rational_plus(r1, r2)
+print(n, d, end=' ')
