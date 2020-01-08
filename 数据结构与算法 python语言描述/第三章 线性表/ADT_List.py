@@ -43,3 +43,26 @@ def reverse(self):
     for i < j:
         elems[i], elems[j] = elems[j], elems[i]
         i, j = i+1, j-1
+
+
+'''
+思路：
+1. 复制一份列表
+2. 定义首尾i, j的下标索引
+3. 当i<j时：
+        首尾交换
+        下标加一
+'''
+
+# 完整函数
+def reverse(l):
+    li = l
+    i, j = 0, len(li)-1
+    for _ in range(len(li)):
+        if i < j:
+           li[i], li[j] = li[j], li[i]
+           i, j = i+1, j-1
+    return li
+
+
+print(reverse([1, 2, 3, 4, 5, 6, 7, 8]))
