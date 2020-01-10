@@ -1,0 +1,164 @@
+Overview of the NLPCC 2019 Shared Task: Cross-Domain Dependency Parsing
+Domain information Enhanced Dependency Parser
+Cross-Domain Transfer Learning for Dependency Parsing
+Overview of the NLPCC 2019 Shared Task: Open-Domain Semantic Parsing
+A Sketch-Based System for Semantic Parsing
+A Transformer-based Semantic Parser for NLPCC-2019 Shared Task 2
+Overview of the NLPCC 2019 Shared Task: Open Domain Conversation
+An Overview of the 2019 Language and Intelligence Challenge
+DuIE: A Large-scale Chinese Dataset for Information Extraction
+BERT-Based Multi-Head Selection for Joint Entity-Relation Extraction
+Goal-oriented Knowledge-driven Neural Dialog Generation System
+Multple Perspective Answer Reranking for Multi-Passage Reading Comprehension
+Proactive Knowledge-Goals Dialogue System Based on Pointer Network
+A Relation Proposal Network for End-to-End Information Extraction
+Explainable AI: A Brief Survey on History, Research Areas, Approaches and Challenges
+Disentangling Latent Emotions of Word Embeddings On Complex Emotional Narratives
+Interpretable Spatial-Temporal Attention Graph Convolution Network for Service Part Hierarchical Demand Forecast
+Feature-less End-to-End Nested Term Extraction
+Modeling Human Intelligence in Customer-Agent Conversation Using Fine-Grained Dialogue Acts
+Using Aspect-based Analytsis for explainable Sentiment Predictions
+A Modified LIME and its Application to Explain Service Supply Chain Forecasting
+Crosslingual Neural Vector Conceptualization
+Discrimination Assessment for Saliency Maps
+基于句法结构的神经网络复述识别模型
+汉语篇章小句关联结构的表示与识别研究
+A Word Segmentation Method of Ancient Chinese Based on Word Alignment
+HConstructing Chinese Macro Discourse Tree via Multiple Views and Word Pair Similarity
+Dependency-Gated Cascade Biaffine Network for Chinese Semantic Dependency Parsing
+Multi-Strategies Method for Cold-Start Stage Question Matching of rQA Task
+SMART: A Stratified Machine Reading Test
+Bi-directional Capsule Network Model for Chinese Biomedical Community Question Answering
+Neural Response Generation with Relevant Emotions for Short Text Conversation
+Many vs. Many Query Matching with Hierarchical BERT and Transformer
+A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph
+Feature-level Attention based Sentence Encoding for Neural Relation Extraction
+Domain Representation for Knowledge Graph Embedding
+Evidence Distilling For Fact Extraction And Verification
+Cosine-based Embedding for Completing Schematic Knowledge
+Select Best Translation from Different Systems without Reference
+Word Position Aware Translation Memory for Neural Machine Translation
+Cross Aggregation of Multi-Head Attention for Neural Machine Translation
+Learning Unsupervised Word Mapping via Maximum Mean Discrepancy
+Solving Chinese Character Puzzles Based on Character Strokes
+Learning Personalized End-to-End task-Oriented Dialogue Generation
+How Question Generation can Help Question Answering over Knowledge Base
+中文人机对话的主体识别
+We Know What You Will Ask: A Dialogue System for Multi-Intent Switch and Prediction
+唐诗意象图谱构建
+融合门控机制的远程监督关系抽取方法
+Improving Multi-Head Attention with CapsuleNetworks
+Linguistic Feature Embedding with Statistical Relation Learning for Readability Assessment
+Improved DeepWalk Algorithm Based on Preference Random Walk
+Automatic Translating between Ancient Chinese and Contemporary Chinese with Limited Sentence-aligned Corpora
+Effective Soft-Adaptation for Neural Machine Translation
+Neural Machine Translation with Bilingual History Involved Attention
+An Analytical Study on A Benchmark Corpus Constructed for Related Work Generation
+Applying Data Discretization to DPCNN for Law Article Prediction
+Charge Prediction with Legal Attention
+Predicting Popular News Comments Based on Multi-Target Text Matching Model
+Neural Networks Merging Semantic and Non-semantic Features for Opinion Spam Detection
+A Neural Topic Model based on Variational Auto-encoder for Aspect Extraction from Opinion Texts
+A Recursive Information Flow Gated Model for RST-style Text-level Discourse Parsing
+A Sequence-to-Action Architecture for Character-based Chinese Dependency Parsing with Status History
+A Dynamic Word Representation Model Based on Deep Context
+A Category Detection Method for Evidence-Based Medicine
+Gender Prediction Based on Chinese Name
+Explanation Chains Model based on the Fine-grained Data
+Overview of the NLPCC 2019 Shared Task: Cross-Domain Dependency Parsing
+Domain information Enhanced Dependency Parser
+Cross-Domain Transfer Learning for Dependency Parsing
+Overview of the NLPCC 2019 Shared Task: Open Domain Semantic Parsing
+A Sketch-Based System for Semantic Parsing
+Overview of the NLPCC 2019 Shared Task: Open Domain Conversation
+DuIE: A Large-scale Chinese Dataset for Information Extraction
+Multiple Perspective Answer Reranking for Multi-Passage Reading Comprehension 
+BSIL: Distributed Neural Network Framework Based Brain Storm for Imbalanced Learning in Text Classification
+A New Fine-Tuning Architecture Based on Bert for Word Relation Extraction
+细粒度情感分类研究
+Automated ICD Coding Based on Word Embedding with Entry Embedding and Attention Mechanism (基于融合条目词嵌入和注意力机制的自动ICD编码)
+Evaluating Semantic Rationality of a Sentence: A Sememe-Word-Matching Neural Network based on HowNet
+Learning Domain Invariant Word Representations for Parsing Domain Adaptation
+Knowledge-Aware Conversational Semantic Parsing Over Web Tables
+Chinese Paraphrase Bank: A Sentence-Level Paraphrase Corpus for Chinese
+基于多模态融合技术的用户画像研究
+An Abstractive Summarization Method Based on Encoder-sharing and Gated Network
+基于元数据语义表示的学位论文多学科分类
+Dynamic Label Correction for Distant Supervision Relation Extraction via Semantic Similarity
+Group-constrained Embedding of Multi-fold Relations in Knowledge Bases
+Fast and Accurate Bilingual Lexicon Induction via Matching Optimization
+基于情感信息辅助的多模态情绪识别
+Improving Transformer with Sequential Context Representations for Abstractive Text Summarization
+Automatically Build Corpora for Chinese Spelling Check Based on the Input Method
+Exploration on Generating Traditional Chinese Medicine Prescriptions from Symptoms with an End-to-End Approach
+Evaluating Image-Inspired Poetry Generation
+A Study on Prosodic Distribution of Yes/No Questions with Focus in Mandarin
+IPRE: a Dataset for Inter-Personal Relationship Extraction
+A Knowledge-Gated Mechanism for Utterance Domain Classification
+An improved class-center method for text classification using dependencies and WordNet
+Document-based Question Answering Improves Query-focused Multi-Document Summarization
+A Key-Phrase Aware End2end Neural Response Generation Model
+Implicit Objective Network for Emotion Detection
+Multi-Task Multi-Head Attention Memory Network for Fine-Grained Sentiment Analysis
+Stance Influences Your Thoughts: Psychology-inspired Social Media Analytics
+Multi-Depth Graph Convolutional Networks for Fake News Detection
+Model the Long-term Post History for Hashtag Recommendation
+一种融入非结构化背景知识的交互文本立场分析方法
+Improving Question Answering by Commonsense-Based Pre-Training
+Variational Attention for Commonsense Knowledge Aware Conversation Generation
+Automated Thematic and Emotional Modern Chinese Poetry Composition
+Evaluating and Enhancing the Robustness of Retrieval-based Dialogue Systems with Adversarial Examples
+Domain Adaptive Question Answering over Knowledge Base
+Extend the Transformer with Context and Multi-Dimensional Mechanism for Dialogue Response Generation
+Hierarchical-gate Multimodal Network for Human Communication Comprehension
+Attentional Neural Network for Emotion Detection in Conversations with Speaker Influence Awareness
+Multilingual Dialogue Generation with Shared-Private Memory
+KG-to-Text Generation with Slot-Attention and Link-Attention
+REET: Joint Relation Extraction and Entity Typing via Multi-task Learning
+Joint modeling of Recognizing Macro Chinese Discourse Nuclearity and Relation Based on Structure and Topic Gated Semantic Network
+Triple-Joint Modeling for Question Generation using Cross-Task Autoencoder
+Deep Multi-task Learning with Cross Connected Layer for Slot Filling
+面向维汉神经机器翻译的双向重排序模型分析
+面向低资源神经机器翻译的回译方法分析
+基于语义信息的维汉机器翻译系统融合研究（Research of Uyghur-Chinese Machine Translation System Combination Based on Semantic Information）
+Detecting and Translating Dropped Pronouns in Neural Machine Translation
+Target Oriented Data Generation for Quality Estimation of Machine translation
+Improved Quality Estimation of Machine Translation with Pre-trained Language Representation
+Beyond Word for Word: Fact Guided Training for Neural Data-to-Document Generation
+XCMRC: Evaluating Cross-lingual Machine Reading Comprehension
+一种面向苗汉混合字串的多模式匹配算法
+融合篇章表征的事件指代消解研究
+Learning Stance Classification with Recurrent Neural Capsule Network
+Neural Melody Composition from Lyrics
+User-Characteristic Enhanced Model for Fake News Detection in Social Media
+Using Bidirectional Transformer-CRF for Spoken Language Understanding
+基于图卷积网络的事件时序关系识别
+篇章级事件真实性检测
+中文事件真实性检测
+Rumor Detection with Hierarchical Recurrent Convolutional Neural Network
+Neural Classifier with Statistic Information of User and Product for Sentiment Analysis
+面向微博用户的消费意图识别算法(Consumption Intent Recognition Algorithms for Weibo Users)
+Co-attention Networks for Aspect-level Sentiment Analysis
+基于神经耦合模型的异构词法数据转化和融合
+句法增强的UCCA语义分析方法
+基于Full-Tree LSTM的树库转化及融合
+联合自编码任务的多机制融合复述生成模型
+GANCoder：一种基于GAN的从自然语言到程序语言的自动编程方法
+CPLM-CSC：基于单字级别预训练语言模型的中文错别字纠正方法
+Multi-Grain-Level Representation Learning for Implicit Discourse Relation Recognition
+Learning Diachronic Word Embeddings with Iterative Stable Information Alignment
+藏文音节构件分解及类型识别算法
+Automatic Proofreading in Chinese: Detect and Correct Spelling Errors in Character-level with Deep Neural Networks
+Classification Over Clustering: Augmenting Text Representation with Clusters Helps!
+基于主题约束的篇章级文本生成方法研究
+Shared-private LSTM for Multi-domain Text Classification
+Co-Attention and Aggregation Based Chinese Recognizing Textual Entailment Model
+FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition
+Relation Classification in Scientific Papers Based on Convolutional Neural Network
+A Hierarchical Model with Recurrent Convolutional Neural Networks for Sequential Sentence Classification
+REKER: Relation Extraction with Knowledge of Entity and Relation
+Using Dependency Information to Enhance Attention Mechanism for Aspect-based Sentiment Analysis
+Combining External Sentiment Knowledge for Emotion Cause Detection
+An Automatic Spelling Correction Method for Classical Mongolian
+End-to-End Model for Offline Handwritten Mongolian Word Recognition
+基于产品信息的评价问题生成
